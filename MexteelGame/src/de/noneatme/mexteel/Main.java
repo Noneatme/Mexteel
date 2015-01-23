@@ -62,7 +62,7 @@ public class Main extends SimpleApplication {
         rootNode.addLight(sun);
         rootNode.attachChild(scene);   
         rootNode.attachChild(sky);
-        
+
         return true;
     }
 
